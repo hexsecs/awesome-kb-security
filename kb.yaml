@@ -1,5 +1,6 @@
-openshelf: "0.1"
+openshelf: "1.4"
 id: awesome-kb-security
+uid: 01a19d3e-8666-771f-8c80-7e7ef96451be
 title: "Security (Awesome KB)"
 description: >
   Knowledge base for security — tools, research, and practice across
