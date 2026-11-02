@@ -1,0 +1,19 @@
+openshelf: "0.1"
+id: awesome-kb-security
+title: "Security (Awesome KB)"
+description: >
+  Knowledge base for security — tools, research, and practice across
+  offensive and defensive security — to be ingested from a curated awesome
+  list designated as canon by the owner. Scaffolded 2026-11-01; canon list
+  pending the owner's designation.
+profile: awesome
+version: "2026.11.01"
+license: CC0-1.0
+maintainers: [hexsecs]
+tags: [security, awesome]
+layout:
+  pages: wiki
+  index: index.md
+  sources: raw
+  schema: AGENTS.md
+  log: log.md
