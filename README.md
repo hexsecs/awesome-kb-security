@@ -6,7 +6,7 @@ https://hexsecs.github.io/awesome-kb/ once registered imports build.
 
 A living knowledge base for security — tools, research, and practice
 across offensive and defensive security — in the
-[OpenShelf](https://github.com/hexsecs/openkb) format: a canon awesome
+[OpenShelf](https://github.com/hexsecs/openshelf) format: a canon awesome
 list feeds a wiki of researched pages, maintained jointly by bots and
 humans. Part of the [Awesome KB](https://github.com/hexsecs/awesome-kb)
 network.
